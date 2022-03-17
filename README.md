@@ -1,5 +1,5 @@
 # MATH4021 Advanced Dynamical Systems
-### Semester 1, 2021 at The University of Western Australia
+### Semester 1, 2022 at The University of Western Australia
 
 This repository contains various worked examples and computational exercises to assist students enroled in MATH4021.
 
@@ -9,7 +9,6 @@ Currently:
 - ``FalseNearestNeighbours.ipynb`` : naive implementation of false nearest neighbours - following exactly the description from class (week 4)    
 - ``NonlinearModelling.ipynb`` : nonlinear radial basis modelling of time series via Takens' time delay embedding and minimum description length (weeks 5-6)
 - ``Dimensions.ipynb`` : estimation of correlation integral and (subsequently) correlation dimension ala (G&P, Judd and GKA).              
-- next: surrogates
+- ``Surrogates.ipynb`` : surrogate hypothesis testing
 
-
-More to come.
+Updating now for 2022.
