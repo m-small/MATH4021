@@ -10,5 +10,6 @@ Currently:
 - ``NonlinearModelling.ipynb`` : nonlinear radial basis modelling of time series via Takens' time delay embedding and minimum description length (weeks 5-6)
 - ``Dimensions.ipynb`` : estimation of correlation integral and (subsequently) correlation dimension ala (G&P, Judd and GKA).              
 - ``Surrogates.ipynb`` : surrogate hypothesis testing
+- ``reservoir_Computing_demo.ipynb`` : python notebook demo of application of the reservoir computing ideas.
 
 Updating now for 2023.
