@@ -1,5 +1,5 @@
 # MATH4021 Advanced Dynamical Systems
-### Semester 1, 2022 at The University of Western Australia
+### Semester 1, 2023 at The University of Western Australia
 
 This repository contains various worked examples and computational exercises to assist students enroled in MATH4021.
 
