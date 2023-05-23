@@ -11,4 +11,4 @@ Currently:
 - ``Dimensions.ipynb`` : estimation of correlation integral and (subsequently) correlation dimension ala (G&P, Judd and GKA).              
 - ``Surrogates.ipynb`` : surrogate hypothesis testing
 
-Updating now for 2022.
+Updating now for 2023.
